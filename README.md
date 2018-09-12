@@ -4,4 +4,5 @@ This are some little programs made while in university not big enough for its ow
 
 ### Projects
 
-  * Base converter
+  * [Base Converter](https://github.com/manoloesparta/stuff/tree/master/baseconverter)
+  * [Public and Private Key](https://github.com/manoloesparta/stuff/tree/master/key)
