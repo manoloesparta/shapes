@@ -13,13 +13,10 @@ def deconverterBase(base, num):
 
 	num = list(map(int, num_arr))
 	
-	bit_arr = []
+	result = []
 	for i in range(len(num)):
-		bit_arr.append(maxbit)
 		maxbit = maxbit // base
+		res = maxbit * num[i]
+		result.append(res)
 
-	result_array = []
-	for i in range(len(num)):
-		result_array.append(bit_arr[i] * num[i])
-
-	return sum(result_array)
+	return sum(result)
