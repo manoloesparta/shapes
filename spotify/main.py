@@ -42,18 +42,21 @@ while results['next']:
 	tracks.extend(results['items'])
 
 albums_uri = []
+albums_name = []
 
 for i in tracks:
 	albums_uri.append(i['track']['album']['id'])
+	albums_name.append(i['track']['album']['name'])
 
 all_tracks_uri = []
 
-for album in albums_uri:
-	set_list = Spotify.album_tracks(album)
-	print(set_list)
+for album in range(len(albums_uri)):
+	set_list = Spotify.album_tracks(albums_uri[album])
 	for track in set_list['items']:
 		all_tracks_uri.append(track['id'])
-
+	print('ALBUM:',albums_name[album],'LOADED')
+	
+	
 # Choose random songs
 
 chosen = []
@@ -65,3 +68,4 @@ for i in range(100):
 # Add songs to playlist
 
 Spotify.user_playlist_add_tracks(username, playlist_goal, chosen)
+print('\nDone')
