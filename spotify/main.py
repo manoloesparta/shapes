@@ -50,6 +50,7 @@ all_tracks_uri = []
 
 for album in albums_uri:
 	set_list = Spotify.album_tracks(album)
+	print(set_list)
 	for track in set_list['items']:
 		all_tracks_uri.append(track['id'])
 
