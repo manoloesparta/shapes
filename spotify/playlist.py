@@ -3,21 +3,15 @@ import json
 import os
 import random
 from spotipy import util
-
-# Auth
+import auth
 
 playlist_retrieved = '1ofx1iXeCqb5gPuEWSanfc'
 playlist_goal = '0iYFyrLsby2E0QBBPs2xWi'
 
-username = 'manoloesparta'
-scope = 'playlist-modify-private'
+# Auth
 
-try:
-	token = util.prompt_for_user_token(username, scope)
-except:
-	os.remove(f'.cache-{username}')
-	token = util.prompt_for_user_token(username, scope)
-
+token = auth.token
+username = auth.username
 Spotify = spotipy.Spotify(auth=token)
 
 # Remove current songs
@@ -32,7 +26,7 @@ for i in tracks:
 
 Spotify.user_playlist_remove_all_occurrences_of_tracks(username, playlist_goal, removed)
 
-# Get Songs 
+# Get Albums 
 
 results = Spotify.user_playlist_tracks(username, playlist_retrieved)
 tracks = results['items']
@@ -45,10 +39,14 @@ while results['next']:
 albums_uri = []
 albums_name = []
 
+
 for i in tracks:
 
 	albums_uri.append(i['track']['album']['id'])
 	albums_name.append(i['track']['album']['name'])
+
+
+# Get songs
 
 all_tracks_uri = []
 

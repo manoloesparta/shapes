@@ -1,4 +1,5 @@
 __pychache__/
+spotify/__pycache__/
 .cache-*
 ./spotify/.cache-*
 .DS_Store
