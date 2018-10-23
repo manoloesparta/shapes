@@ -2,11 +2,19 @@ import spotipy
 import json
 import os
 import random
-from spotipy import util
 import auth
+from spotipy import util
+from fbchat import Client
+from fbchat.models import *
+from os import environ
 
 playlist_retrieved = '1ofx1iXeCqb5gPuEWSanfc'
 playlist_goal = '0iYFyrLsby2E0QBBPs2xWi'
+
+email = environ['FB_EMAIL']
+password = environ['FB_PASSWORD']
+
+client = Client(email, password)
 
 # Auth
 
@@ -63,14 +71,24 @@ for i in range(100):
 # Song x album
 
 tracks_ids = []
+tracks_names = []
 
 for i in range(len(albums_selected)):
 
 	set_list = Spotify.album_tracks(albums_selected[i])
+
 	print("ALBUM", albums_selected_names[i], "LOADED")
+
 	mini = random.randint(0, len(set_list['items']) - 1)
 	leng = len(set_list)
+
 	tracks_ids.append(set_list['items'][mini]['id'])
+	tracks_names.append(set_list['items'][mini]['name'])
+
+# Send message
+
+juampy = environ['JUAMPY_FBID']
+client.send(Message(text=", ".join(tracks_names)), thread_id=juampy, thread_type=ThreadType.USER)
 
 # Add to playlist
 
