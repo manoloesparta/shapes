@@ -25,11 +25,6 @@ def main():
 
 	Spotify.user_playlist_add_tracks(username, playlist_goal, tracks['tracks_id'])
 
-	try:
-		client = authfb()
-		send(client, tracks['tracks_name'])
-	except:
-		print("Not posible to send message")
 
 if __name__ == '__main__':
 
