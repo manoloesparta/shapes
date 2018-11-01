@@ -4,6 +4,6 @@ This are some little programs made while in university not big enough for its ow
 
 ### Projects
 
-  * [Base Converter](https://github.com/manoloesparta/stuff/tree/master/baseconverter)
-  * [Public and Private Key](https://github.com/manoloesparta/stuff/tree/master/key)
-  * [Spotify Playlist Generator](https://github.com/manoloesparta/stuff/tree/master/spotify)
+  * [Base Converter](./baseconverter)
+  * [Public and Private Key](./key)
+  * [Spotify Playlist Generator](./spotify)
