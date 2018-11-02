@@ -7,3 +7,4 @@ This are some little programs made while in university not big enough for its ow
   * [Base Converter](./baseconverter)
   * [Public and Private Key](./key)
   * [Spotify Playlist Generator](./spotify)
+  * [Randomizer](./random)
