@@ -3,3 +3,4 @@ spotify/songxalbum/__pycache__/
 .cache-*
 ./spotify/.cache-*
 .DS_Store
+data.json
