@@ -4,3 +4,6 @@ spotify/songxalbum/__pycache__/
 ./spotify/.cache-*
 .DS_Store
 data.json
+venv/
+.idea/
+.vscode/
