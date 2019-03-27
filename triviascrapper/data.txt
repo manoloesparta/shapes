@@ -1546,3 +1546,399 @@ Question: What is the largest animal currently on Earth?, Answer: Blue Whale
 Question: In what ocean did the Titanic sink?, Answer: The North Atlantic Ocean
 Question: Who was the first man to set foot on the moon?, Answer: Neil Armstrong
 Question: What planet is closest to the sun?, Answer: Mercury
+Question: Shown before a baseball game in 1941, the world’s first television commercial advertised what product?, Answer: Bulova watches
+Question: Originally from Quebec, what food comes from the local french slang word for a “mess”?, Answer: Poutine
+Question: Which European country has the longest coastline?, Answer: Norway
+Question: What is the seventh and final novel of the Harry Potter series?, Answer: Harry Potter and the Deathly Hallows
+Question: An Astronomical Unit is the average distance between which two objects in our solar system?, Answer: The Earth and the Sun
+Question: What Japanese word translates into English as “harbor wave”?, Answer: Tsunami
+Question: In the sport of professional bicycle racing, what are the three Grand Tours?, Answer: The Tour de France, Giro d’Italia and Vuelta a España.
+Question: What now retired NBA player starred in the 1996 movie Kazaam?, Answer: Shaquille O’Neal
+Question: The first atom bomb was successfully tested in which U.S. state?, Answer: New Mexico
+Question: Most brands of of the liquor soju are made in which country?, Answer: South Korea
+Question: Victorian writers Charlotte, Emily, and Anne were sisters sharing what last name?, Answer: Brontë
+Question: The Age of Bronze is a life size bronze statue created by which French sculptor?, Answer: Auguste Rodin
+Question: IKEA, the ready-to-assemble furniture company, has its headquarters located in what country?, Answer: The Netherlands
+Question: Rock singer William Bailey is better known by what stage name?, Answer: Axl Rose
+Question: What comedian took over as host of The Price is Right after Bob Barker retired in 2007?, Answer: Drew Carey
+Question: What song does Jiminy Cricket famously sing during the opening credits of Pinocchio?, Answer: When You Wish Upon a Star
+Question: Which South American country is the world’s largest producer of Coffee?, Answer: Brazil
+Question: Spoken by the majority of the population, what is the official language of Iran?, Answer: Persian (Farsi)
+Question: Which band’s name is also a reference to a large German airship, cylinderical in shape?, Answer: Led Zeppelin
+Question: Which actress played Lauren Miller, Alex’s girlfriend on the last two seasons of Family Ties?, Answer: Courteney Cox
+Question: With 208 touchdowns, which player holds the record for the most touchdowns in the American National Football League?, Answer: Jerry Rice
+Question: Which metallic element has a melting point of approximately −38 °F (−39 °C)?, Answer: Mercury
+Question: Which rapper was born Robert Matthew Van Winkle on October 31, 1967?, Answer: Vanilla Ice
+Question: “A la Crecy” is a French cooking term that describes a dish made or garnished with what?, Answer: Carrots
+Question: What was the name of the London theatre built by Shakespeare’s playing company in 1599?, Answer: The Globe Theatre
+Question: Released on April 5, 1974, what was Stephen King’s first published novel?, Answer: Carrie
+Question: Who invented the first alternating current (AC) induction motor?, Answer: Nikola Tesla
+Question: What is the only national flag that is not square or rectangular?, Answer: The flag of Nepal
+Question: Where would one arrive at the second star to the right, and straight on till morning?, Answer: Neverland
+Question: What three-word parting catchphrase is engraved on voice actor Mel Blanc’s gravestone?, Answer: That’s all folks
+Question: Thus Spoke Zarathustra: A Book for All and None is a philosophical novel written by which German philosopher?, Answer: Friedrich Nietzsche
+Question: The island of Borneo is politically divided among which three countries?, Answer: Indonesia, Malaysia and Brunei
+Question: Executives of William Randolph Hearst’s media empire conspired to stop the release of what 1941 film?, Answer: Citizen Kane
+Question: What part of the human body contains five metacarpal bones?, Answer: The hand
+Question: The process of making cow’s milk safe for human consumption is called what?, Answer: Pasteurization
+Question: The song Seventy-Six Trombones first appeared in what 1957 musical play?, Answer: The Music Man
+Question: Who was the host of the American travel and food show No Reservations?, Answer: Anthony Bourdain
+Question: In 1952, Albert Einstein was offered the presidency of which country?, Answer: Israel
+Question: In the sitcom Family Matters and film Die Hard, actor Reginald VelJohnson’s character had what occupation?, Answer: Police officer
+Question: Which French post-Impressionist artist painted A Sunday Afternoon on the Island of La Grande Jatte?, Answer: George Suerat
+Question: What U.S. nonprofit organization sells about 200 million boxes of cookies per year?, Answer: The Girl Scouts
+Question: The scientific unit named after Sir Isaac Newton measures what?, Answer: Force
+Question: Resistance to Civil Government (Civil Disobedience), is an 1849 essay written by which American author?, Answer: Henry David Thoreau
+Question: What is the only country that displays the Bible on its national flag?, Answer: The Dominican Republic
+Question: Prince Rainier III of Monaco married which American actress in April 1956?, Answer: Grace Kelly
+Question: CBGB, the former infamous New York music club, stands for what?, Answer: Country, Blue Grass and Blues
+Question: The city of Baghdad lies along the banks of which river?, Answer: The Tigris River
+Question: What is the name of the character played by Johnny Depp in the Pirates of the Caribbean film series?, Answer: Captain Jack Sparrow
+Question: Oliver Twist was the second novel published by which English author?, Answer: Charles Dickens
+Question: What element did Joseph Priestley discover in 1774?, Answer: Oxygen
+Question: Of the original six space shuttles, which one never flew a mission in space?, Answer: Enterprise
+Question: What was the name of Alexander the Great’s horse?, Answer: Bucephalus
+Question: What inorganic molecule is produced by lightning?, Answer: Ozone
+Question: Which 1997 action thriller film stars Nicolas Cage, John Cusack, and John Malkovich?, Answer: Con Air
+Question: According to Norse mythology, who is the god of thunder?, Answer: Thor
+Question: Utah, Colorado, New Mexico and Arizona meet at what U.S. landmark?, Answer: Four Corners Monument
+Question: Who plays the role of Frank Reynolds in the comedy series “It’s Always Sunny In Philadelphia”?, Answer: Danny Devito
+Question: Who was the first cartoon character to get his own star on Hollywood Boulevard’s Walk of Fame?, Answer: Mickey Mouse, on November 13, 1978.
+Question: Tom yum is a type of hot and sour soup that originated in which country?, Answer: Thailand
+Question: What are the only two countries in South America that do not border Brazil?, Answer: Chile and Ecuador
+Question: In the arcade game Joust, the player controls a knight riding what flying animal?, Answer: Ostrich
+Question: The NBA’s Memphis Grizzlies formerly played in what Canadian city?, Answer: Vancouver
+Question: What fruit is thrown at the annual food fight festival held in Buñol, Spain?, Answer: Tomato
+Question: What late disc jockey was the voice of Shaggy in the cartoon, “Scooby-Doo, Where Are You?”, Answer: Casey Kasem
+Question: Who was the first ever wrestler to be inducted into the WWE Hall of Fame?, Answer: André the Giant
+Question: The ancient Egyptian symbol Ouroboros depicts a serpent eating what?, Answer: Its own tail.
+Question: What Star Trek: The Next Generation actor hosted the children’s show Reading Rainbow?, Answer: LeVar Burton
+Question: A Cuba Libre cocktail is made from what two main ingredients?, Answer: Rum and Coke
+Question: What luxury car company introduced the Boxster roadster in 1996?, Answer: Porsche
+Question: A young Isaac Newton is said to have been hit on the head by which fruit, leading him to come up with the theory of gravity?, Answer: An apple
+Question: Orcinus orca is the scientific name for which animal?, Answer: Killer whale
+Question: What African country was officially known as Zaire between 1971 and 1997?, Answer: The Democratic Republic of the Congo
+Question: China’s Terracotta Army depicts the soldiers of what emperor?, Answer: Qin Shi Huang
+Question: Located in southeast Vietnam, what is the former name of Ho Chi Minh City?, Answer: Saigon
+Question: According to the lyrics of the hit Queen song Killer Queen, perfume came naturally from where?, Answer: Paris
+Question: Ferdinand III was the longest reigning monarch of what former Kingdom?, Answer: Sicily
+Question: Tasmania is an isolated island state belonging to which country?, Answer: Australia
+Question: Which American actor performs music under the stage name Childish Gambino?, Answer: Donald Glover
+Question: The Portuguese motto, “Ordem E Progresso”, is found on which country’s national flag?, Answer: Brazil
+Question: Girl with a Pearl Earring is an oil painting by which Dutch Golden Age painter?, Answer: Johannes Vermeer
+Question: How many electrons does a hydrogen atom have?, Answer: One
+Question: What song from the Disney film “Coco” won the 2018 Academy Award for Best Original Song?, Answer: Remember Me
+Question: In the X-Men film franchise, Halle Berry played the role of which character?, Answer: Storm
+Question: A blunderbuss is an obsolete type of what?, Answer: Firearm
+Question: Moss, garter, and seed are common terms used in which type of handicraft?, Answer: Knitting
+Question: In Olympic archery, what is the standard distance of the target from the archer?, Answer: 70 Meters
+Question: What is the highest number found on a standard roulette wheel?, Answer: 36
+Question: Who created the comedy science fiction series, “The Hitchhiker’s Guide to the Galaxy”?, Answer: Douglas Adams
+Question: Who was the first man to appear on the cover of Playboy Magazine?, Answer: Peter Sellers, April 1964 issue
+Question: Which water sport is the official state individual sport of Hawaii?, Answer: Surfing
+Question: Spanish silver dollars, originally called the Spanish peso, were each worth how many Spanish reales?, Answer: Eight
+Question: What is the mathematical formula for Newton’s Second Law of Motion?, Answer: F=ma (Force equals mass times acceleration)
+Question: Which fast food restaurant chain once tested bubble gum broccoli as a children’s menu item?, Answer: McDonald’s
+Question: Who directed the romantic comedy fantasy adventure film The Princess Bride?, Answer: Rob Reiner
+Question: Who was first U.S. president to be impeached?, Answer: Andrew Johnson in 1868
+Question: What figure of speech meaning, “including everything”, comes from three major parts of a musket?, Answer: Lock, stock, and barrel
+Question: Ron McKernan of the Grateful Dead was commonly known by what nickname?, Answer: Pigpen
+Question: What is the highest mountain when measured from the center of Earth?, Answer: Mt. Chimborazo in Ecuador (Due to equatorial bulge)
+Question: In what country were the Winter Olympics first held?, Answer: France (1924)
+Question: Who starred alongside Eddie Albert in the television sitcom “Green Acres”?, Answer: Eva Gabor
+Question: Alexander the great was taught by which Greek philosopher?, Answer: Aristotle
+Question: In Frank Baum’s novel The Wonderful Wizard of Oz, on which the film is based, what color are Dorothy’s slippers?, Answer: Silver
+Question: The leaning tower of Pisa is located in which city?, Answer: Pisa, Italy
+Question: How many gifts would you receive if you received all of the gifts in the song, “The Twelve Days of Christmas”?, Answer: 364
+Question: Which is the only Disney Princess that has a child?, Answer: Ariel
+Question: Which bird has eyes that are larger than its brain?, Answer: Ostrich
+Question: What are the first four digits of Pi?, Answer: 3.141
+Question: What are the two South American countries that belong to OPEC?, Answer: Venezuela and Ecuador
+Question: Made up predominantly of young men, adult fans of the animated television series My Little Pony are known as what?, Answer: Bronies
+Question: What igneous rock has a density less than water?, Answer: Pumice
+Question: Which city served as the capital of the United States from 1785 until 1790?, Answer: New York
+Question: Published in 1906, White Fang is a novel about a wolf-dog written by which American author?, Answer: Jack London
+Question: What does the online acronym SMH stand for?, Answer: Shaking my head
+Question: A league is equivalent to how many nautical miles at sea?, Answer: Three
+Question: What is the only snake in the world that builds a nest for its eggs?, Answer: King Cobra
+Question: How the Grinch Stole Christmas is a 2000 American Christmas fantasy comedy film starring which actor as the Grinch?, Answer: Jim Carrey
+Question: The name of the popular online battle royale game PUBG, is short for what?, Answer: PlayerUnknown’s Battlegrounds
+Question: What are the official winter and summer sports of Canada?, Answer: Ice hockey and lacrosse
+Question: What is the largest country located entirely in Europe?, Answer: Ukraine
+Question: What famous Christmas legend did a Montgomery Ward advertising man create as part of his job?, Answer: Rudolf the Red-Nosed Reindeer. Adman Robert May first wrote of the now famous reindeer in a pamphlet distributed to children by store Santas in 1939.
+Question: Jim Davis was the cartoonist behind which widely syndicated comic strip?, Answer: Garfield
+Question: Who appeared on the cover of the first issue issue of People Magazine on March 4, 1974?, Answer: Mia Farrow
+Question: American Gothic, a 1930 portrait depicting a farmer and his daughter posing in front of their house, was painted by which artist?, Answer: Grant Wood
+Question: What inland U.S. state has the longest shoreline?, Answer: Michigan
+Question: Who sang the title song “Grease” in the 1978 musical motion picture?, Answer: Frankie Valli
+Question: In 1863, which U.S. President declared that the last Thursday in November should be celebrated as Thanksgiving?, Answer: Abraham Lincoln
+Question: What heavy metal element was once known as quicksilver?, Answer: Mercury
+Question: Which famous toy manufacturer is also the world’s largest tire manufacturer by units produced?, Answer: Lego
+Question: Where did a robot named Spirit remain operational over 2000 sols past its planned 90-sol mission?, Answer: Mars
+Question: Who ties Cloris Leachman for the most Emmys won by a female performer?, Answer: Julia Louis-Dreyfus
+Question: A word that is spelled the same forwards and backwards is called a what?, Answer: Palindrome
+Question: What gives red blood cells their color?, Answer: Hemoglobin
+Question: Tapestry, Inc., with a stock ticker symbol of TPR is more commonly known as what retail store and line of products?, Answer: Coach
+Question: Who became both a vice president and president of the United States without ever being elected to either office?, Answer: Gerald Ford
+Question: When referring to an establishment that sells alcoholic drinks, what is the word “pub” short for?, Answer: Public house
+Question: Wrangell-St. Elias, the largest national park in the U.S., is located in which state?, Answer: Alaska
+Question: The adult human skeleton is made of up how many bones?, Answer: 206
+Question: Papua New Guinea is bordered by which country to the west?, Answer: Indonesia
+Question: What are the first names of the lip-syncing musical duo known as Milli Vanilli that earned a Grammy Award in 1990?, Answer: Rob and Fab
+Question: “If I Had $1000000” is a song by which Canadian musical group?, Answer: Barenaked Ladies
+Question: When referring to cables used to transmit audio/video, what does HDMI stand for?, Answer: High-Definition Multimedia Interface
+Question: What three colors appear on the flag of Ireland?, Answer: Green, white and orange
+Question: In 2003, which U.S. state was officially declared the birthplace of aviation?, Answer: Ohio (Dayton, Ohio was the home of Wilbur and Orville Wright)
+Question: The Scarlet Letter is a historical fiction novel written by which American author?, Answer: Nathaniel Hawthorne
+Question: What “King” of golf lent his name to a mixture of iced tea and lemonade?, Answer: Arnold Palmer
+Question: Which actor played Freddie Mercury in the 2018 film Bohemian Rhapsody?, Answer: Rami Malek
+Question: What two sisters faced each other in the finals of the French Open, Wimbledon, and US Open in 2002?, Answer: Venus and Serena Williams
+Question: In which Asian country is the city of Chiang Mai located?, Answer: Thailand
+Question: A poke bowl is a diced raw fish dish that originated in which U.S. state?, Answer: Hawaii
+Question: Whose dress was dried like jerky for the Rock & Roll Hall of Fame?, Answer: Lady Gaga
+Question: What is the name of the Las Vegas professional ice hockey team that began play in the 2017–18 NHL season?, Answer: The Vegas Golden Knights
+Question: In which Disney film do two cats sing “The Siamese Cat Song”?, Answer: Lady and the Tramp
+Question: What late “Enter the Dragon” star would have been age 32 at the film’s Hong Kong premiere?, Answer: Bruce Lee
+Question: Notorious Colombian drug lord Pablo Escobar died in a shootout in what city?, Answer: Medellin, Colombia
+Question: What is the only mammal born with horns?, Answer: Giraffe
+Question: Who was the first female Prime Minister of a European country?, Answer: Margaret Thatcher 
+Question: Who is the only basketball player to score 100 points in a single NBA game?, Answer: Wilt Chamberlain
+Question: Nellie Bly wrote, “What, excepting torture, would produce insanity quicker than this treatment?” in her 1887 undercover exposé of what type of institution?, Answer: An insane asylum (New York’s Blackwell’s Island Asylum)
+Question: In what city would you find the Wizard of Oz?, Answer: The Emerald City
+Question: What is the name for the pigment found in your skin and hair that gives them color?, Answer: Melanin
+Question: What happened to British street artist Banksy’s “Girl with Balloon” when it sold for $1.4 million at Sotheby’s auction house in 2018?, Answer: It shredded itself
+Question: A standard 7-inch vinyl single is usually played at what rpm?, Answer: 45 rpm
+Question: Hamburgers get their name from what European city?, Answer: Hamburg, Germany
+Question: Who was the captain of the Mayflower when it took the Pilgrims to New England in 1620?, Answer: Christopher Jones
+Question: Who holds the record for the most home runs in a single major league baseball season?, Answer: Barry Bonds, with 73 home runs in 2001.
+Question: Which video game studio created the popular online game Fortnite?, Answer: Epic Games
+Question: What popular Disney movie is set near Salem, Massachusetts in the years 1693 and 1993?, Answer: Hocus Pocus
+Question: Who patented the concept of a flat engine or “boxer” engine in 1896?, Answer: Karl Benz
+Question: Who was the king of Britain during the American revolutionary war?, Answer: George III
+Question: In what city does a Creole lady of the night strut her stuff, according to the original 1974 song “Lady Marmalade”?, Answer: New Orleans
+Question: The expression “oy vey” comes from what language?, Answer: Yiddish
+Question: Where does Spongebob Squarepants work?, Answer: The Krusty Krab
+Question: Which U.S. president issued the Emancipation Proclamation?, Answer: President Abraham Lincoln
+Question: “Arco iris” is the Spanish term for what natural phenomenon?, Answer: Rainbow
+Question: Eddie Murphy’s first major motion picture role was in what movie released in 1982 co-starring Nick Nolte?, Answer: 48 Hours
+Question: What comic strip’s final panel depicts a boy and a tiger sledding away?, Answer: Calvin and Hobbes
+Question: What flightless bird is featured on New Zealand’s one dollar coin?, Answer: Kiwi
+Question: What city is most commonly referred to as “The City of Light”?, Answer: Paris, France
+Question: The United States Supreme Court consists of how many judges?, Answer: Nine
+Question: What is the color of Underdog’s cape?, Answer: Blue
+Question: Olympia is the capital city of which U.S. state?, Answer: Washington
+Question: What is the name of Donald Duck’s sister?, Answer: Della Duck (called Dumbella in Donald’s Nephews)
+Question: Marxist revolutionary Che Guevara was born in what country?, Answer: Argentina
+Question: What is Shawshank, in the movie The Shawshank Redemption?, Answer: The prison
+Question: What was the first publicly traded U.S. company to reach a $1 trillion market cap?, Answer: Apple
+Question: What was the nickname for the four engine B-17 bomber planes used during WWII?, Answer: Flying Fortress
+Question: Which event did US President Franklin D. Roosevelt call, “A day that will live in infamy”?, Answer: The Attack on Pearl Harbor, December 7, 1941.
+Question: Naan is the Persian word for what?, Answer: Bread
+Question: Who is the lead singer for the rock band Guns N’ Roses?, Answer: Axl Rose
+Question: Which country financed Christopher Columbus’ 1492 exploration?, Answer: Spain
+Question: Which two South American countries do not touch the sea?, Answer: Paraguay and Bolivia
+Question: Which U.S. state has the motto “Live Free or Die” on their license plate?, Answer: New Hampshire
+Question: Foie gras is a french delicacy made from the liver of what animal?, Answer: Duck or Goose
+Question: What 1985-1992 sitcom earned Emmy awards for its four stars, all women over the age of 50?, Answer: Golden Girls
+Question: A Boeing 777 is equipped with how many engines?, Answer: Two
+Question: What was the name of cowboy star Roy Rogers’ palomino horse?, Answer: Trigger (originally named Golden Cloud)
+Question: In which national park would you find the geyser known as “Old Faithful”?, Answer: Yellowstone National Park
+Question: What U.S. agency’s motto is “Fidelity, Bravery, Integrity”?, Answer: The Federal Bureau of Investigation (FBI)
+Question: How many teams are in the American National Football league?, Answer: 32 Teams
+Question: What actor played Russian roulette in “The Deer Hunter”, demanded “More Cowbell” on “Saturday Night Live”, and danced solo in Fatboy Slim’s “Weapon of Choice” video?, Answer: Christopher Walken
+Question: The live action superhero television series “Mighty Morphin Power Rangers” premiered in what year?, Answer: 1993
+Question: “Believe in something, even if it means sacrificing everything” is a Nike advertisement associated with what former NFL player?, Answer: Colin Kaepernick
+Question: How many members were in the American rock band The White Stripes?, Answer: Two (Jack & Meg White)
+Question: Who wrote the American realist novel “The Grapes of Wrath”?, Answer: John Steinbeck
+Question: What group of lakes located in upstate New York are named after a part of the human anatomy?, Answer: The finger lakes
+Question: What holiday, celebrated December 26 to January 1, is named after the Swahili word for “first”?, Answer: Kwanzaa
+Question: Bogota is the high altitude capital of which country?, Answer: Colombia
+Question: What Marvel character’s real name is Carol Danvers?, Answer: Captain Marvel (or Ms. Marvel)
+Question: Who plays Jack Ryan in the 2002 American spy thriller “The Sum of all Fears”?, Answer: Ben Affleck
+Question: What television host quipped at his 1990 wedding, “The answer is… yes”?, Answer: Alex Trebek
+Question: The Trout Memo was an espionage guidebook written by what British author during WWII?, Answer: Ian Fleming
+Question: In the game of pool, what is the standard color for the one ball?, Answer: Yellow
+Question: What future U.S. president was stranded on a desert island as a 26-year-old navy lieutenant in 1943?, Answer: John F. Kennedy
+Question: What was the first all-professional baseball team with salaried players?, Answer: Cincinnati Red Stockings
+Question: In the U.S. military, what does the acronym NCO stand for?, Answer: Non-commissioned officer
+Question: The Hound of the Baskervilles is a crime novel featuring which fictional detective?, Answer: Sherlock Holmes
+Question: What six-letter magic word in comic books invokes Solomon, Hercules, Atlas, Zeus, Achilles, and Mercury?, Answer: Shazam
+Question: Which continent is also a country?, Answer: Australia
+Question: Able to be seen from outer space, what is Earth’s largest living structure?, Answer: The Great Barrier Reef
+Question: Daniel Peggotty is a character from which Charles Dickens novel published in 1850?, Answer: David Copperfield
+Question: What is the name of the sequel to the movie Wreck-It Ralph that was released in 2018?, Answer: Ralph Breaks the Internet
+Question: What is called when a player scores two goals in a game of soccer?, Answer: A brace
+Question: A fortnight is a unit of time equal to how many days?, Answer: 14 Days
+Question: Originating in Germany, the Danube River empties into what body of water?, Answer: Black Sea
+Question: Which actor played the fictional character Dr. Emmett Brown in the Back to the Future trilogy?, Answer: Christopher Lloyd
+Question: A wombat is a marsupial native to which country?, Answer: Australia
+Question: What was the name of the coffee shop in the hit sitcom friends?, Answer: Central Perk
+Question: When referring to the test taken for entrance into the US military what does ASVAB stand for?, Answer: Armed Services Vocational Aptitude Battery
+Question: Filipino First Lady Imelda Marcos, was famous for her very large collection of what?, Answer: Shoes
+Question: Who was the commander of the Confederate Army during the battle of Gettysburg?, Answer: Robert Edward Lee
+Question: What Catholic prayer lends its name to a very long forward pass thrown with time running out in American football?, Answer: Hail Mary
+Question: On the popular social website Reddit, what does AMA stand for?, Answer: Ask Me Anything
+Question: A “sounder” is the term used to refer to a group of what type of animal?, Answer: Wild swine, pigs or boars.
+Question: In what two-act ballet does a toymaker’s goddaughter travel to the Land of Sweets on Christmas Eve?, Answer: The Nutcracker
+Question: What do the letters CPU stand for when referring to the “brains” of a computer?, Answer: Central Processing Unit
+Question: Sydney Carton is the central character in what Charles Dickens novel?, Answer: A Tale of Two Cities
+Question: The Roman Catholic church La Sagrada Familia, located in Barcelona Spain, was designed by which Catalan architect?, Answer: Antoni Gaudí
+Question: What murder-mystery board game replaced the suspect Mrs. White with Dr. Orchid in 2016?, Answer: Clue or Cluedo
+Question: MMA is the acronym for what full-contact combat sport?, Answer: Mixed Martial Arts
+Question: Officially opened in 1869, what artificial waterway connects the Mediterranean Sea to the Red Sea?, Answer: The Suez Canal
+Question: What is the capital city of South Korea?, Answer: Seoul
+Question: In what Mark Twain novel does an engineer from Connecticut travel back in time to the age of Camelot?, Answer: A Connecticut Yankee in King Arthur’s Court
+Question: On which popular website do users send tweets?, Answer: Twitter
+Question: Who played the fictional character Phoebe Buffay on the American sitcom Friends?, Answer: Lisa Valerie Kudrow
+Question: Established in the 1920s, what historic double-digit highway connected Chicago and Los Angeles?, Answer: Route 66
+Question: Which continent has the highest human population density?, Answer: Asia
+Question: What automobile manufacturer was first to implement the assembly line for the mass production of an entire automobile?, Answer: Ford Motor Company
+Question: What is the Latin plural form of the word cactus?, Answer: Cacti
+Question: The aardvark is native to which continent?, Answer: Africa
+Question: The southernmost part of the US is located in which state?, Answer: Hawaii
+Question: Who was the last queen of France prior to the French revolution?, Answer: Marie Antoinette
+Question: Come as You Are, a song by the grunge band Nirvana was released on which album?, Answer: Nevermind
+Question: According to ancient Roman religion, who was the god of the sea?, Answer: Neptune
+Question: Which US state has the highest number of colleges and universities?, Answer: California
+Question: The Punisher is a fictional character appearing in comic books published by which company?, Answer: Marvel Comics
+Question: What common expression is used to refer to the horseshoe shaped zone found along the Pacific rim where approximately 90% of the world’s earthquakes occur?, Answer: Ring of Fire
+Question: What is the name for the upper arm bone found in humans?, Answer: Humerus
+Question: According to legend, Romulus and Remus founded what city?, Answer: Rome
+Question: The song “Eye of the Tiger” by the band Survivor was the theme song for what movie released in 1982?, Answer: Rocky III
+Question: Professional footballer Lionel Messi was born in which country?, Answer: Argentina
+Question: What was the name of the first manned mission to land on the moon?, Answer: Apollo 11
+Question: The silkscreen paintings Campbell’s Soup Cans and Marilyn Diptych were created in 1962 by which American artist?, Answer: Andy Warhol
+Question: Saskatchewan is a province of which country?, Answer: Canada
+Question: The famous American writer Samuel Langhorne Clemens is better known by what pen name?, Answer: Mark Twain
+Question: What is the only mammal that can truly fly?, Answer: The bat
+Question: When referring to a type of music, what does R&B stand for?, Answer: Rhythm and blues
+Question: Ice hockey pucks are made from what material?, Answer: Vulcanized rubber
+Question: The Carolina Reaper, Dorset Naga, and Trinidad Scorpion are varieties of what kind of edible plant?, Answer: Chili pepper (Capsicum annuum)
+Question: The headquarters of the United Nations is located in what city?, Answer: New York City
+Question: A misandrist is a person that hates what?, Answer: Men
+Question: In the game of chess, how many pawns does each player start with?, Answer: Eight
+Question: SNES is the acronym for what popular gaming console released in the early 1990s?, Answer: Super Nintendo Entertainment System
+Question: In 2012, Magic Johnson became part owner of which Major League Baseball team?, Answer: Los Angeles Dodgers
+Question: Who did Jerry Lewis partner with to form a famous comedy duo that lasted 10 years?, Answer: Dean Martin
+Question: Tenochtitlan, founded in 1324, is now known as what city?, Answer: Mexico City
+Question: In cooking, margarine is used as a substitute for what ingredient?, Answer: Butter
+Question: Located in southern Siberia, what lake is the deepest and largest freshwater lake in the world?, Answer: Lake Baikal
+Question: Who was the star of the popular 80s crime drama Magnum P.I.?, Answer: Tom Selleck
+Question: The tallest statue in the world as of 2018, the Spring Temple Buddha, is located in what country?, Answer: China
+Question: Which actress played the character Annie Reed in the 1993 American romantic comedy Sleepless in Seattle?, Answer: Meg Ryan
+Question: At its peak in 2004, which company had over 9000 video rental stores worldwide?, Answer: Blockbuster Video (Blockbuster LLC)
+Question: What is the English translation for the name of the German automaker Volkswagen?, Answer: People’s car
+Question: What country is named for its location on the equator?, Answer: Ecuador
+Question: The Bill of Rights contains how many of the first amendments to the United States Constitution?, Answer: Ten
+Question: With twelve Oscar nominations and three wins,  who is the most nominated male actor in Academy Awards history?, Answer: Jack Nicholson
+Question: What is the Spanish word for meat?, Answer: Carne
+Question: What is the tallest mountain in South America?, Answer: Mount Aconcagua, Argentina
+Question: What is the secret identity of the fictional superhero Batman?, Answer: Bruce Wayne
+Question: The Concorde was a supersonic passenger airliner flown by which two airlines?, Answer: Air France (AF) and British Airways (BA)
+Question: What is the world’s largest coral reef system?, Answer: The Great Barrier Reef
+Question: What do the letters C and H stand for in C & H Sugar?, Answer: California and Hawaii
+Question: Atlantis, Paradise Island is a famous resort located on which country’s coral based archipelago?, Answer: The Bahamas (the Commonwealth of The Bahamas)
+Question: Who is the only former heavyweight boxing champ to be buried in Arlington National Cemetery?, Answer: Joe Louis
+Question: In what country would you find large ancient geoglyphs known as the the Nasca Lines?, Answer: Peru
+Question: What skipper lost the 1983 America’s Cup and then won the Cup back in 1987?, Answer: Dennis Conner
+Question: What is the name for a mammal this is born incompletely developed and usually carried in the mother’s pouch?, Answer: Marsupial
+Question: Which park is the most filmed location in the world?, Answer: Central Park
+Question: In boxing, what is the term for an illegal punch to the back of the head or base of the skull?, Answer: Rabbit Punch
+Question: The profile of General George Washington appears on what United States military decoration?, Answer: The Purple Heart
+Question: In the classic board game Monopoly, how much does it cost to buy a railroad?, Answer: $200
+Question: First published in 1719, “Robinson Crusoe” is a novel written by which English writer?, Answer: Daniel Dafoe
+Question: The world’s fastest growing plant is a species of what?, Answer: Bamboo
+Question: “Hey Boo Boo, let’s go get us a pic-a-nic basket!”, is a famous line often said by which cartoon character?, Answer: Yogi Bear 
+Question: What does the muppet Oscar the Grouch live in?, Answer: A trash can
+Question: What is the common term for a list of things a person would like to do before they die?, Answer: Bucket list
+Question: Stratus, Cirrus and Cumulus are types of what?, Answer: Clouds
+Question: When a drink is served “on the rocks”, it is served with what?, Answer: Ice cubes
+Question: Who was the first woman to be inducted into the Rock and Roll Hall of Fame?, Answer: Aretha Franklin
+Question: The 1927 New York Yankees batting order, including Babe Ruth and Lou Gehrig, was known by what nickname?, Answer: Murderer’s Row
+Question: Jamón ibérico is a type of cured ham that is traditionally produced by which two neighboring countries?, Answer: Spain and Portugal
+Question: Dendrophobia is the fear of what?, Answer: Trees
+Question: Head and Shoulders is a brand of shampoo that claims to deal with what common chronic scalp condition?, Answer: Dandruff
+Question: Quito is the capital city of which South American country?, Answer: Ecuador
+Question: Which 1993 American science-fiction adventure film had a plot that involved creating a theme park from cloned dinosaurs?, Answer: Jurassic Park 
+Question: What is the name for meteoroids that survive entry through the atmosphere and reach Earth’s surface?, Answer: Meteorites
+Question: In what sport does a jammer score a point for each opponent she skates past?, Answer: Roller Derby
+Question: What is the name for the offspring of a male lion and a female tiger?, Answer: Liger
+Question: Who won more Academy Awards in his lifetime than any other person?, Answer: Walt Disney
+Question: On the Apollo 11 moon mission, which astronaut stayed aloft in the command module while Neil Armstrong and Buzz Aldrin walked on the moon?, Answer: Michael Collins
+Question: What is the longest river in Australia?, Answer: The Murray River
+Question: Mario Kart is a video game series publish by which company?, Answer: Nintendo
+Question: If a liquor is 100 proof how much alcohol does it contain by percentage?, Answer: 50 Percent
+Question: In the poker game Texas Hold’em, how many cards are dealt to each player?, Answer: Two
+Question: Ozeki and yokozuna are the top ranks in which sport?, Answer: Sumo wrestling
+Question: What international event for athletes with disabilities is held in the same years and cities as the Olympic Games?, Answer: The Paralympic Games
+Question: What was the name of Jack Nicholson’s character in the 1975 American comedy-drama film “One Flew Over the Cuckoo’s Nest”?, Answer: Randle McMurphy
+Question: What Greek mathematician is considered the founder and father of Geometry?, Answer: Euclid
+Question: What notable brand of alcohol takes its name from the romanticized, storied life of a Welsh buccaneer who routed the Spanish in an attack on Panama City in 1671?, Answer: Captain Morgan
+Question: Which wedding anniversary is traditionally referred to as the golden wedding anniversary?, Answer: 50th
+Question: What ingredient is added to white sugar to make brown sugar?, Answer: Molasses
+Question: What is the name of the dog from the 1960s television cartoon The Jetsons?, Answer: Astro
+Question: What is the heaviest naturally occurring element found on Earth?, Answer: Uranium (U92)
+Question: “My bologna has a first name” are the first words of a classic Jingle advertising what company?, Answer: Oscar Meyer 
+Question: What three countries share a border with North Korea?, Answer: China, Russia, and South Korea
+Question: Who was the first U.S. president that was born a citizen of the United States?, Answer: Martin Van Buren
+Question: Which book holds the record of being the most stolen book from public libraries?, Answer: Guinness Book of World Records
+Question: Which former teen idol gained popularity playing the role of Miley Stewart on the Disney Channel television series Hannah Montana?, Answer: Miley Cyrus
+Question: In 1796 Edward Jenner developed the vaccination for what disease?, Answer: Smallpox
+Question: Florence Nightingale aided the sick and wounded during which war?, Answer: The Crimean War
+Question: Cinco de Mayo celebrates the Mexican army’s 1862 victory over France in what battle?, Answer: The Battle of Puebla
+Question: What spiny venous fish, common in home aquariums, has become an invasive species in the Caribbean Sea and U.S. Atlantic coastal waters?, Answer: Lionfish
+Question: Which scientist is considered the father of modern genetics?, Answer: Gregor Mendel
+Question: The port city of Luanda is the capital city of which African country?, Answer: Angola
+Question: What is the brand name for the product that has a mascot of a muscular man with a shaved head and an earring?, Answer: Mr. Clean
+Question: What is the name for the branch of mathematics dealing with lengths and angles of triangles., Answer: Trigonometry 
+Question: “A Diamond is Forever” is a famous advertising slogan created in 1947 for what company?, Answer: De Beers
+Question: The dingo is a type of feral dog native to which country?, Answer: Australia
+Question: In the fact based movie “21” released in 2008, students from MIT made millions by counting cards playing which card game?, Answer: Blackjack
+Question: What is the common translation for the popular Latin phrase “carpe diem”?, Answer: Seize the day
+Question: “What you talkin’ ’bout, willis?”  was a catchphrase spoken by the actor Gary Coleman on what American television show?, Answer: Diff’rent Stroke
+Question: Jack the Ripper is the name given to an unidentified serial killer that terrorized what city in 1888?, Answer: London, England
+Question: “Game, set, match” is an expression used to indicate a competitor has won the game in which sport?, Answer: Tennis
+Question: The Canadian flag features a leaf from which type of tree?, Answer: Maple tree
+Question: Trevi fountain is located in the capital city of which European country?, Answer: Italy
+Question: America’s Next Top Model is an American reality television show created by which former model?, Answer: Tyra Banks
+Question: According to the bible, who was the longest lived person on Earth?, Answer: Methuselah: 969 years
+Question: Who was the tallest actor ever to win an academy award?, Answer: Tim Robins in 2003 for Best Supporting Actor in Mystic River
+Question: Which actor played a FedEX employee that became marooned on an island in the 2000 drama film Cast Away?, Answer: Tom Hanks 
+Question: In what year did the great fire of London take place?, Answer: 1666 
+Question: What is the only U.S. state without a rectangular flag?, Answer: Ohio 
+Question: Who was the first performer at the 1969 Woodstock festival?, Answer: Richie Havens 
+Question: What is the most visited museum in Europe?, Answer: Louvre, Paris, France 
+Question: What NBA player was known as “The Pearl”?, Answer: Earl Monroe 
+Question: A Moscow Mule is a type of cocktail popularly served in what?, Answer: Copper Mug 
+Question: A Shakespearean sonnet consists of how many lines?, Answer: Fourteen 
+Question: Houses of the Holy is the fifth studio album by which English rock band?, Answer: Led Zeppelin 
+Question: What is the largest rodent found in North America?, Answer: Beaver 
+Question: Founded in 1921, this company was credited with being the first “fast food” chain?, Answer: White Castle 
+Question: What is the closest star to our own sun?, Answer: Proxima Centauri 
+Question: What was Walt Disney’s middle name?, Answer: Elias 
+Question: How do you say panda in Spanish?, Answer: Panda 
+Question: Sukiyaki is a popular hot pot dish from what country?, Answer: Japan
+Question: Who was president of the United States when bombs were dropped on Hiroshima and Nagasaki?, Answer: Harry S. Truman 
+Question: Which U.S. President made the first telephone call to the moon?, Answer: Richard Nixon 
+Question: What is the first “themed land” just inside the main entrance of Disneyland?, Answer: Main Street, U.S.A. 
+Question: “The road to greatness can take you to the edge”, is the tagline of which 2014 American drama film?, Answer: Whiplash 
+Question: Who was the United States’ leading fighter pilot of WWI with 26 victories?, Answer: Eddie Rickenbacker 
+Question: How many red stripes are there on the United States flag?, Answer: Seven 
+Question: What NHL hockey player was nicknamed “The Golden Jet”?, Answer: Bobby Hull 
+Question: Betelgeuse and Rigel are the two giant stars in which constellation?, Answer: Orion 
+Question: Which American author wrote the non-fiction novel “In Cold Blood”?, Answer: Truman Capote 
+Question: Montevideo is the capital city of which South American country?, Answer: Uruguay 
+Question: “Michael Keaton played which Spiderman villain in the 2017 superhero movie “Spiderman: Homecoming”?”, Answer: Vulture 
+Question: What is the name for the longest side of a right triangle?, Answer: Hypotenuse 
+Question: Which christian missionary is said to have banished all the snakes from Ireland?, Answer: Saint Patrick 
+Question: Lox, often served on a bagel, is a fillet of brined what?, Answer: Salmon 
+Question: What dog breed native to Japan has a name that translates to “little brushwood dog”?, Answer: Shiba Inu 
+Question: Mark Zuckerberg was one of the founders of which social networking site?, Answer: Facebook 
+Question: “Call me Ishmael” is the opening line from what novel?, Answer: Moby Dick 
+Question: What is the most common blood type in humans?, Answer: O+ 
+Question: What is the national sport of Japan?, Answer: Sumo 
+Question: The Gettysburg address was a speech given by which U.S. president?, Answer: President Abraham Lincoln 
+Question: What does the acronym for the German multinational company BMW stand for?, Answer: Bavarian Motor Works (Bayerische Motoren Werke) 
+Question: What is the only bird known to fly backwards?, Answer: Hummingbird 
+Question: What is the official language of Greenland?, Answer: Greenlandic 
+Question: In the 1997 American science fiction comedy Men in Black, which actor played Agent K?, Answer: Tommy Lee Jones 
