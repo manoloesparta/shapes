@@ -7,7 +7,6 @@ data.json
 venv/
 .idea/
 .vscode/
-.vs/
 *.suo
 *.user
 *.sln.docstates
