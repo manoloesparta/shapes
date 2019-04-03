@@ -29,16 +29,6 @@ namespace figuras
             return new Circulo(radio, x, y);
         }
 
-        public override double Perimetro()
-        {
-            return 2 * Math.PI * radio;
-        }
-
-        public override double area()
-        {
-            return Math.PI * radio * radio;
-        }
-
         public override void dibujate(Canvas miCanvas)
         {
             if (!miCanvas.Children.Contains(c))

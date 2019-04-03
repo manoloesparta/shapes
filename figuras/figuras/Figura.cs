@@ -26,8 +26,6 @@ namespace figuras
             this.PosY = PosY;
         }
 
-        public abstract double Perimetro();
-        public abstract double area();
         public abstract void dibujate(Canvas miCanvas);
 
         public virtual void Animate(Canvas miCanvas)

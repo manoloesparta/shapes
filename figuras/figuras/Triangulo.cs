@@ -28,17 +28,6 @@ namespace figuras
             return new Triangulo(lado, x, y);
         }
 
-        public override double area()
-        {
-
-            return (lado * altura) / 2; ;
-        }
-
-        public override double Perimetro()
-        {
-            return lado * 3;
-        }
-
         public double altura
         {
 

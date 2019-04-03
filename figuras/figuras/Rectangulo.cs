@@ -30,16 +30,6 @@ namespace figuras
             return new Rectangulo(_base, altura, x, y);
         }
 
-        public override double area()
-        {
-            return baseRect * alturaRect;
-        }
-
-        public override double Perimetro()
-        {
-            return (2 * baseRect) + (2 * alturaRect);
-        }
-
         public override void dibujate(Canvas miCanvas)
         {
             if (!miCanvas.Children.Contains(r))

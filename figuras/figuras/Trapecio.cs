@@ -37,16 +37,6 @@ namespace figuras
             return new Trapecio(basemayor, basemenor, altura, lateral, x, y);
         }
 
-        public override double area()
-        {
-            return ((basemayor + basemenor) * altura) / 2;
-        }
-
-        public override double Perimetro()
-        {
-            return (lateral * 2) + basemayor + basemenor;
-        }
-
         public override void dibujate(Canvas miCanvas)
         {
             if (!miCanvas.Children.Contains(p))
