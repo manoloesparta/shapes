@@ -9,4 +9,3 @@ This are some little programs made while in university not big enough for its ow
   * [Questions Scrapper](./triviascrapper)
   * [Figuras](./figuras)
   * [Puntos](./puntos)
-  * [Clone Repos](./clonerepos)
